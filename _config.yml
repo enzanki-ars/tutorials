@@ -1,0 +1,35 @@
+title: "Template"
+description: "Template for new Jekyll Websites"
+repository: enzanki-ars/template
+
+author:
+  twitter: enzanki_ars
+
+twitter:
+  username: enzanki_ars
+
+social:
+  links:
+    - https://twitter.com/enzanki_ars
+
+timezone: America/New_York
+encoding: utf-8
+
+collections:
+  - tutorials
+
+defaults:
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: post
+
+exclude: [vendor]
+      
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-seo-tag

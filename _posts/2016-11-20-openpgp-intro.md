@@ -13,7 +13,7 @@ how OpenPGP works.
 
 ## How Public Key Cryptography works
 
-Kahn Academy has a very good tutorial on the details and mathematics behind
+Khan Academy has a very good tutorial on the details and mathematics behind
 [cryptography in general](https://www.khanacademy.org/computing/computer-science/cryptography)
 and [public key cryptography](https://www.khanacademy.org/computing/computer-science/cryptography#modern-crypt).
 
